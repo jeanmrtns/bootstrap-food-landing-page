@@ -1,0 +1,32 @@
+.img-carousel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 25rem;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.dark-red {
+    color: darkred !important;
+}
+
+.food-img {
+    object-fit: cover;
+    object-position: center;
+    height: 15rem;
+}
+
+.card {
+    border: 1px solid darkred;
+}
+
+.btn-see-receipt {
+    background-color: darkred;
+    transition: filter 0.3s;
+}
+
+.btn-see-receipt:hover {
+    filter: opacity(0.9);
+}
